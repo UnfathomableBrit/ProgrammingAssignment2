@@ -2,7 +2,7 @@
 ## functions do
 
 ## Write a short comment describing this function
-##The first function, makeCacheMatrix creates a special "matrix"
+##The first function, makeCacheMatrix creates a special "matrix" that can cache it's inverse
 
 makeCacheMatrix <- function(x = matrix()) {
     m <- NULL
